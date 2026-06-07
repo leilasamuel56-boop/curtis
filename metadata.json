@@ -3,5 +3,8 @@
   "description": "A high-performance e-commerce platform for fashion, inspired by Jumia, featuring AI-powered product descriptions and personalized style recommendations.",
   "requestFramePermissions": [
     "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
   ]
 }
